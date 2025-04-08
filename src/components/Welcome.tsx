@@ -16,7 +16,7 @@ const Welcome: React.FC<WelcomeProps> = ({ onStart }) => {
           Potato Disease Detection
         </h1>
         <p className="text-xl text-gray-600">
-          Upload a photo of your potato plant and let our AI identify any potential diseases
+          Upload a photo of your potato plant and let our Website identify any potential diseases
         </p>
         <button
           onClick={onStart}
